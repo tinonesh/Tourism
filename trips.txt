@@ -1,0 +1,23 @@
+Hunting bad bitches|Japan|Kyoto|LETSGOOO|03/07/2025|08/07/2025|12000.0|4
+Summer Escape|Italy|Rome|Colosseum and pasta|10/07/2025|20/07/2025|850.5|20
+Beach Bliss|Spain|Barcelona|Relaxing sun and sea|05/08/2025|15/08/2025|950.0|15
+Tokyo Adventure|Japan|Tokyo|High-tech meets tradition|12/09/2025|22/09/2025|1450.0|10
+Mountain Magic|Austria|Salzburg|Alps and music|01/07/2025|10/07/2025|780.0|25
+London Calling|UK|London|Culture and history|20/06/2025|30/06/2025|890.0|18
+Big Apple Tour|USA|New York|City that never sleeps|10/08/2025|20/08/2025|1200.0|22
+French Escape|France|Paris|Romantic getaway|15/07/2025|25/07/2025|980.0|20
+Northern Lights|Canada|Toronto|Nature and chill|01/12/2025|10/12/2025|1100.0|12
+Aussie Trip|Australia|Sydney|Opera and surfing|05/01/2026|15/01/2026|1300.0|16
+Bulgarian Beauty|Bulgaria|Sofia|Historic treasures|10/06/2025|20/06/2025|500.0|30
+USA West|USA|Los Angeles|Beaches and Hollywood|18/08/2025|28/08/2025|1150.0|14
+Royal Roads|UK|Manchester|Football vibes|02/09/2025|12/09/2025|870.0|17
+Viva España|Spain|Madrid|Art and fiesta|06/10/2025|16/10/2025|910.0|19
+Canadian Cold|Canada|Vancouver|Mountains and lakes|20/11/2025|30/11/2025|1080.0|10
+Greek Getaway|Greece|Athens|History and sun|07/07/2025|17/07/2025|760.0|21
+Scandinavian Tour|Sweden|Stockholm|Clean cities|01/08/2025|11/08/2025|990.0|13
+Asian Dream|Japan|Osaka|Cuisine and lights|09/09/2025|19/09/2025|1400.0|10
+USA East|USA|Chicago|Windy city|14/08/2025|24/08/2025|1170.0|15
+French Alps|France|Lyon|Mountain charm|19/07/2025|29/07/2025|920.0|16
+Italian North|Italy|Milan|Fashion and charm|11/06/2025|21/06/2025|880.0|18
+
+
